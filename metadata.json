@@ -2,5 +2,7 @@
   "name": "Кандзи Мастер — Изучение иероглифов",
   "description": "Справочник японских иероглифов, умный поиск по русскому и японскому чтению, карточки для запоминания, поурочное обучение по 10 кандзи и интерактивные тесты.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
