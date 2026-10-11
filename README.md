@@ -1,13 +1,13 @@
 # Кандзи Мастер (Kanji Master)
 
 <p align="center">
-  <a href="https://ais-pre-7yvhneopd6pvv7trktoqym-699188007506.asia-east1.run.app" target="_blank">
+  <a href="https://ais-dev-7yvhneopd6pvv7trktoqym-699188007506.asia-east1.run.app" target="_blank">
     <img src="https://img.shields.io/badge/🚀_ОТКРЫТЬ_ПРИЛОЖЕНИЕ-КЛИКНИТЕ_СЮДА-1a4a2e?style=for-the-badge&logoColor=c8963e" alt="Открыть приложение" height="48" />
   </a>
 </p>
 
 <p align="center">
-  <b>👉 Нажмите кнопку выше, чтобы запустить приложение прямо в браузере без установки и скачивания!</b>
+  <b>👉 Нажмите кнопку выше, чтобы запустить приложение онлайн прямо сейчас!</b>
 </p>
 
 ---
